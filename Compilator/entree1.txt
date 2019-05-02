@@ -1,0 +1,9 @@
+#BOUCLE
+#Calcul
+ALGORITHME test
+Integer l||k||m ;
+Real n ||o;
+Integer CONST r:=1||s:=2;
+{
+n:=3+5-6;
+}

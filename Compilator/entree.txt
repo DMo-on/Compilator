@@ -1,0 +1,32 @@
+#BOUCLE
+#Calcul
+ALGORITHME test
+Integer x||y||z||j||k ;
+Real n ||o;
+Integer CONST r:=5||s:=2;
+{
+//x:=5*2+3;
+z:=5;
+y:=x;//
+
+//y:=4*r;//
+
+j:=1;
+k:=1;
+x:=4*j+k;
+y:=4*j+k;
+
+
+While(i>2)
+{
+x:=4*j+k;
+y:=4*j+k;
+}
+//EXECUT
+x:=4*j+k;
+y:=4*j+k;
+IF(i>2)//
+
+
+
+}
